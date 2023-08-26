@@ -1,0 +1,11 @@
+127.0.0.1 - - [19/Aug/2023:13:46:57 +0900] "GET / HTTP/1.1" 404 807
+192.168.0.67 - - [19/Aug/2023:13:47:02 +0900] "GET /BBS/bbs.jsp HTTP/1.1" 200 2790
+192.168.0.67 - - [19/Aug/2023:13:47:02 +0900] "GET /BBS/css/custom.css HTTP/1.1" 304 -
+192.168.0.67 - - [19/Aug/2023:13:47:02 +0900] "GET /BBS/css/bootstrap.css HTTP/1.1" 304 -
+192.168.0.67 - - [19/Aug/2023:13:47:02 +0900] "GET /BBS/js/bootstrap.js HTTP/1.1" 304 -
+192.168.0.67 - - [19/Aug/2023:13:47:12 +0900] "GET /BBS/main.jsp HTTP/1.1" 200 3175
+192.168.0.67 - - [19/Aug/2023:13:47:12 +0900] "GET /BBS/images/La.jpg HTTP/1.1" 304 -
+192.168.0.67 - - [19/Aug/2023:13:47:12 +0900] "GET /BBS/images/Puppy.jpg HTTP/1.1" 304 -
+192.168.0.67 - - [19/Aug/2023:13:47:12 +0900] "GET /BBS/images/Tokyo.jpg HTTP/1.1" 304 -
+192.168.0.67 - - [19/Aug/2023:13:47:12 +0900] "GET /BBS/images/Seoul.png HTTP/1.1" 304 -
+192.168.0.67 - - [19/Aug/2023:13:47:28 +0900] "GET /BBS/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 304 -
